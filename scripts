@@ -1,5 +1,5 @@
 return {
-    -- Danh sách script theo ID Game (Key là PlaceID hoặc GameID)
+    
     [107778070777162] = {
         GameName = "Steal an Egg",
         Scripts = {
