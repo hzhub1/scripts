@@ -1,0 +1,39 @@
+return {
+    -- game Steal an Egg (ID: 107778070777162)
+    [107778070777162] = {
+        {
+            Name = "Chạy LemonHub",
+            Description = "Tải script LemonHub",
+            Url = "https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua"
+        },
+        {
+            Name = "Chạy Foxname",
+            Description = "Tải script Foxname",
+            Url = "https://raw.githubusercontent.com/Davidena1611/Davichi-Ronnei/refs/heads/main/foxname-nokey.lua"
+        },
+        {
+            Name = "Chạy Clover",
+            Description = "Tải script Clover",
+            Url = "https://cloverhub.app/clover.lua"
+        },
+        {
+            Name = "Chạy Miiranda Hub",
+            Description = "Tải script Miiranda Hub",
+            Url = "https://raw.githubusercontent.com/miirandahub/loader/refs/heads/main/stealaegg"
+        },
+        {
+            Name = "Vantablack Hub",
+            Description = "Tải script Vantablack Hub",
+            Url = "https://raw.githubusercontent.com/tranduykhanh08428-web/Raw.lua/refs/heads/main/Stealanegg.lua"
+        }
+    },
+    
+    -- các game chưa hỗ trợ
+    ["Default"] = {
+        {
+            Name = "Chạy Speed Hub X (Tổng hợp)",
+            Description = "Tải script Speed Hub X mặc định",
+            Url = "https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua"
+        }
+    }
+}
