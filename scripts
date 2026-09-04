@@ -21,7 +21,7 @@ return {
             Description = "Tải script Miiranda Hub",
             Url = "https://raw.githubusercontent.com/miirandahub/loader/refs/heads/main/stealaegg"
         },
-           {       
+        {       
             Name = "Chạy OmgHub",
             Description = "Tải script Omg Hub",
             Url = "https://raw.githubusercontent.com/Omgshit/Scripts/main/MainLoader.lua"
@@ -30,14 +30,19 @@ return {
             Name = "Vantablack Hub",
             Description = "Tải script Vantablack Hub",
             Url = "https://raw.githubusercontent.com/tranduykhanh08428-web/Raw.lua/refs/heads/main/Stealanegg.lua"
+        },
+        {
+            Name = "Chạy Hoshi Hub",
+            Description = "Tải script Hoshi Hub",
+            Url = "https://hoshihub.site/loader.lua"
         }
     },
     
     -- các game chưa hỗ trợ
     ["Default"] = {
         {
-            Name = "Chạy Speed Hub X (Tổng hợp)",
-            Description = "Tải script Speed Hub X mặc định",
+            Name = "Chạy Speed Hub X",
+            Description = "Tải script Speed Hub X",
             Url = "https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua"
         }
     }
