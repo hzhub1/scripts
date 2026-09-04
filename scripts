@@ -31,6 +31,11 @@ return {
             Description = "Tải script Vantablack Hub",
             Url = "https://raw.githubusercontent.com/tranduykhanh08428-web/Raw.lua/refs/heads/main/Stealanegg.lua"
         },
+     {
+            Name = "Chạy ",
+            Description = "Tải script ",
+            Url = "https://api.luarmor.net/files/v4/loaders/359e97f8618e9008afe5f496184ebb7c.lua"
+    },
         {
             Name = "Chạy Hoshi Hub",
             Description = "Tải script Hoshi Hub",
