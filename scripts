@@ -21,6 +21,11 @@ return {
             Description = "Tải script Miiranda Hub",
             Url = "https://raw.githubusercontent.com/miirandahub/loader/refs/heads/main/stealaegg"
         },
+           {       
+            Name = "Chạy OmgHub",
+            Description = "Tải script Omg Hub",
+            Url = "https://raw.githubusercontent.com/Omgshit/Scripts/main/MainLoader.lua"
+        },
         {
             Name = "Vantablack Hub",
             Description = "Tải script Vantablack Hub",
