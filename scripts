@@ -31,15 +31,20 @@ return {
             Description = "Tải script Vantablack Hub",
             Url = "https://raw.githubusercontent.com/tranduykhanh08428-web/Raw.lua/refs/heads/main/Stealanegg.lua"
         },
-     {
+        {
             Name = "Chạy Ajjans",
             Description = "Tải script Ajjans Hub",
             Url = "https://api.luarmor.net/files/v4/loaders/359e97f8618e9008afe5f496184ebb7c.lua"
-    },
+        },
         {
             Name = "Chạy Hoshi Hub",
             Description = "Tải script Hoshi Hub",
             Url = "https://hoshihub.site/loader.lua"
+        },
+        {
+            Name = "Chạy Infinite Yield",
+            Description = "Tải script Infinite Yield",
+            Url = "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"
         }
     },
     
@@ -49,6 +54,11 @@ return {
             Name = "Chạy Speed Hub X",
             Description = "Tải script Speed Hub X",
             Url = "https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua"
+        },
+        {
+            Name = "Chạy Infinite Yield",
+            Description = "Tải script Infinite Yield",
+            Url = "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"
         }
     }
 }
