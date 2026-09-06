@@ -22,7 +22,7 @@ return {
             Url = "https://raw.githubusercontent.com/Omgshit/Scripts/main/MainLoader.lua"
         },
         {
-            Name = "Vantablack Hub",
+            Name = "Chạy Vantablack Hub",
             Url = "https://raw.githubusercontent.com/tranduykhanh08428-web/Raw.lua/refs/heads/main/Stealanegg.lua"
         },
         {
@@ -38,8 +38,8 @@ return {
             Url = "https://hoshihub.site/loader.lua"
         },
         {
-            Name = "Chạy Lumion.top",
-            Url = "http://luminon.top/loader.lua"
+            Name = "Chạy Luminon.top",
+            Url = "https://luminon.top/loader.lua"
         }
     },
     
