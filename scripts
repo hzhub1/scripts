@@ -4,7 +4,7 @@ return {
         {
             Name = "Chạy LemonHub",
             Description = "Tải script LemonHub",
-            Url = "https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua"
+            Url = "https://raw.githubusercontent.com/lennonxscripts/lennonhubv2/refs/heads/main/stealaneggv2"
         },
         {
             Name = "Chạy Foxname",
