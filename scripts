@@ -42,9 +42,9 @@ return {
             Url = "https://hoshihub.site/loader.lua"
         },
         {
-            Name = "Chạy Infinite Yield",
-            Description = "Tải script Infinite Yield",
-            Url = "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"
+            Name = "Chạy Lumion.top",
+            Description = "Tải script Lumion Hub",
+            Url = "http://luminon.top/loader.lua"
         }
     },
     
