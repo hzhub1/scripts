@@ -1,4 +1,4 @@
-Return {
+return {
     -- game Steal an Egg (ID: 107778070777162)
     [107778070777162] = {
         {
