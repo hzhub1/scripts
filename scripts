@@ -1,49 +1,44 @@
-return {
+Return {
     -- game Steal an Egg (ID: 107778070777162)
     [107778070777162] = {
         {
             Name = "Chạy LemonHub",
-            Description = "Tải script LemonHub",
             Url = "https://raw.githubusercontent.com/lennonxscripts/lennonhubv2/refs/heads/main/stealaneggv2"
         },
         {
             Name = "Chạy Foxname",
-            Description = "Tải script Foxname",
             Url = "https://raw.githubusercontent.com/Davidena1611/Davichi-Ronnei/refs/heads/main/foxname-nokey.lua"
         },
         {
             Name = "Chạy Clover",
-            Description = "Tải script Clover",
             Url = "https://cloverhub.app/clover.lua"
         },
         {
             Name = "Chạy Miiranda Hub",
-            Description = "Tải script Miiranda Hub",
             Url = "https://raw.githubusercontent.com/miirandahub/loader/refs/heads/main/stealaegg"
         },
         {       
             Name = "Chạy OmgHub",
-            Description = "Tải script Omg Hub",
             Url = "https://raw.githubusercontent.com/Omgshit/Scripts/main/MainLoader.lua"
         },
         {
             Name = "Vantablack Hub",
-            Description = "Tải script Vantablack Hub",
             Url = "https://raw.githubusercontent.com/tranduykhanh08428-web/Raw.lua/refs/heads/main/Stealanegg.lua"
         },
         {
             Name = "Chạy Ajjans",
-            Description = "Tải script Ajjans Hub",
             Url = "https://api.luarmor.net/files/v4/loaders/359e97f8618e9008afe5f496184ebb7c.lua"
         },
         {
+            Name = "Chạy Speed Hub X",
+            Url = "https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua"
+        },
+        {
             Name = "Chạy Hoshi Hub",
-            Description = "Tải script Hoshi Hub",
             Url = "https://hoshihub.site/loader.lua"
         },
         {
             Name = "Chạy Lumion.top",
-            Description = "Tải script Lumion Hub",
             Url = "http://luminon.top/loader.lua"
         }
     },
@@ -52,12 +47,10 @@ return {
     ["Default"] = {
         {
             Name = "Chạy Speed Hub X",
-            Description = "Tải script Speed Hub X",
             Url = "https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua"
         },
         {
             Name = "Chạy Infinite Yield",
-            Description = "Tải script Infinite Yield",
             Url = "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"
         }
     }
