@@ -52,6 +52,22 @@ return {
         {
             Name = "Chạy Infinite Yield",
             Url = "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"
+        },
+        {
+            Name = "FPS UNLOCKED + SHADERS",
+            Url = "https://raw.githubusercontent.com/67HubDev/all/refs/heads/main/FPS%20UNLOCKED%20%2B%20SHADERS"
+        },
+        {
+            Name = "FE EMOTES",
+            Url = "https://raw.githubusercontent.com/7yd7/Hub/refs/heads/Branch/GUIS/Emotes.lua"
+        },
+        {
+            Name = "AnimationLGR",
+            Url = "https://raw.githubusercontent.com/Mereeeecuf/Developer-Tools/refs/heads/main/AnimationLGR"
+        },
+        {
+            Name = "FE Animations",
+            Url = "https://raw.githubusercontent.com/BeemTZy/Motiona/refs/heads/main/source.lua"
         }
     }
 }
